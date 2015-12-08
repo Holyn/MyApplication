@@ -1,5 +1,6 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 // 浩林 ！！！！！！！！！！！
+// 2015年12月8日15:58:57  在github克隆下来后测试提交的结果 ····
 
 buildscript {
     repositories {
